@@ -7,11 +7,6 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="change example" />
 
     <SeekBar
         android:id="@+id/seekbar"
@@ -22,6 +17,6 @@
     <jp.kai.forcelayout.Forcelayout
         android:id="@+id/forcelayout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="380dp" />
 
 </LinearLayout>

@@ -1,4 +1,4 @@
-package jp.kai.forcelayout.properties
+package cn.jingzhuan.stock.topic.industrychain.charview.forcelayout.properties
 
 import android.graphics.Color
 
@@ -7,19 +7,13 @@ import android.graphics.Color
  */
 
 object GraphStyle {
-    /** node */
-    var isImgDraw: Boolean = true
-    var nodesWidth: Int = 150
-    var roundSize: Int = 5
-    var nodeColor: Int = Color.BLACK
 
     /** link */
-    var linkWidth: Float = 5.0f
+    var linkWidth: Float = 0f
     var linkColor: Int = Color.BLACK
 
     /** label */
     var fontSize: Float = 30.0f
     var fontColor: Int = Color.BLACK
 
-    val defaultColor: Int = Color.BLACK
 }

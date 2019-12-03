@@ -1,4 +1,4 @@
-package jp.kai.forcelayout.properties
+package cn.jingzhuan.stock.topic.industrychain.charview.forcelayout.properties
 
 import java.lang.Integer.parseInt
 
